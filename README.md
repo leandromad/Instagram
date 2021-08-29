@@ -6,4 +6,9 @@ Projeto desenvolvido com a [Digital Innovation One](https://digitalinnovation.on
 
 A proposta é a de recriar a [Instagram](https://www.instagram.com/) login homepage, fazendo uso de HTML e CSS.
 
+# Imagem do projeto
+
+![Alt text](https://github.com/leandromad/Instagram/blob/master/img/InstagramREADME.png?raw=true "Imagem projeto Instagram")
+
+
 
