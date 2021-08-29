@@ -2,9 +2,8 @@
 
 #### Hello :wave:
 
-Project developed with the [Digital Innovation One][https://digitalinnovation.one/] platform. This is my first Project/Challenge developed on the proposal of the HTML WEB DEVELOPER Bootcamp.
+Projeto desenvolvido com a [Digital Innovation One](https://digitalinnovation.one/). Esse é meu primeiro Projeto/Desafio desenvolvido na proposta HTML WEB DEVELOPER Bootcamp. is my first Project/Challenge developed on the proposal of the HTML WEB DEVELOPER Bootcamp.
 
-With the proposal of recreating [Instagram][https://www.instagram.com/] login homepage, making use of the concept about CSS using Flexbox, a methodology of positioning elements on canvas most used in the market as well as concepts of responsibility.
-
+A proposta é a de recriar a [Instagram](https://www.instagram.com/) login homepage, fazendo uso de HTML e CSS.
 
 
